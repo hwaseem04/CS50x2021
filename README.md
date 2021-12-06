@@ -2,4 +2,3 @@
 
 My Solutions for the CS50x2021 course's PSets
 
-harvard.com

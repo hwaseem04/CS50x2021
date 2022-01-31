@@ -1,6 +1,6 @@
 # CS50x2021
 
-## My Solutions for the CS50x2021 course's PSets
+## My Solutions for the CS50x2021 course's Problem sets and Labs
 
 Feel free to browse the code in this repository after you do your best to solve the assignments yourself.
 
@@ -11,47 +11,50 @@ Feel free to browse the code in this repository after you do your best to solve 
 Lab 1
 ----------
 
-Link to pset1: 
+Link to Lab 1: 
 
 Lab 2
 ----------
 
-Link to pset2: 
+Link to Lab 2: 
 
 Lab 3
 ----------
 
-Link to pset3: 
+Link to Lab 3: 
 
 
 Lab 4
 ----------
 
-Link to pset4: 
-
+Link to Lab 4: 
 
 
 Lab 5
 ----------
 
-Link to pset5: 
+Link to Lab 5: 
 
 
 Lab 6
 ----------
 
-Link to pset6: 
+Link to Lab 6: 
 
 
 Lab 7
 ----------
 
-Link to pset7: 
+Link to Lab 7: 
 
 Lab 8
 ----------
 
+Link to Lab 8:
+
 ## Lab 9
+
+Link to Lab 9:
 
 Problem Set 1
 ----------

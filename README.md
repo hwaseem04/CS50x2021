@@ -8,6 +8,51 @@ Feel free to browse the code in this repository after you do your best to solve 
 - Solutions of problem sets
 - [Course Certificate](https://courses.edx.org/certificates/bc0e59ca7edd4ed08578d30f131db429)
 
+Lab 1
+----------
+
+Link to pset1: 
+
+Lab 2
+----------
+
+Link to pset2: 
+
+Lab 3
+----------
+
+Link to pset3: 
+
+
+Lab 4
+----------
+
+Link to pset4: 
+
+
+
+Lab 5
+----------
+
+Link to pset5: 
+
+
+Lab 6
+----------
+
+Link to pset6: 
+
+
+Lab 7
+----------
+
+Link to pset7: 
+
+Lab 8
+----------
+
+## Lab 9
+
 Problem Set 1
 ----------
 
@@ -22,7 +67,6 @@ Problem Set 3
 ----------
 
 Link to pset3: 
-
 
 
 Problem Set 4
@@ -53,6 +97,9 @@ Problem Set 8
 ----------
 
 Link to pset8:
+
+Problem Set 9
+----------
 
 Final Project
 ----------

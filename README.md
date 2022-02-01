@@ -11,38 +11,41 @@ Feel free to browse the code in this repository after you do your best to solve 
 
 [Lab 1 : C](https://cs50.harvard.edu/x/2021/labs/1/)
 ----------
+  * [Hello](/lab1/hello/hello.c)
+  * [Population](/lab1/population/population.c)
 
 [Lab 2 : Arrays](https://cs50.harvard.edu/x/2021/labs/2/)
 ----------
-
+  * [Scrabble](/lab2/scrabble/scrabble.c)
 
 [Lab 3 : Algorithms](https://cs50.harvard.edu/x/2021/labs/3/)
 ----------
-
-
+  * [Sort](/lab3/answers.txt)
+  
 [Lab 4 : Memory](https://cs50.harvard.edu/x/2021/labs/4/)
 ----------
-
+  * [Volume](/lab4)
 
 [Lab 5 : Data Structures](https://cs50.harvard.edu/x/2021/labs/5/)
 ----------
-
+  * [Inheritance](/lab5/inheritance.c)
 
 [Lab 6 : Python](https://cs50.harvard.edu/x/2021/labs/6/)
 ----------
-
-
+  * [World Cup](/lab6)
+ 
 [Lab 7 : SQL](https://cs50.harvard.edu/x/2021/labs/7/)
 ----------
 
 
 [Lab 8 : HTML, CSS, JavaScript](https://cs50.harvard.edu/x/2021/labs/8/)
 ----------
-
+  * [Trivia](/lab8)
 
 [Lab 9 : Flask](https://cs50.harvard.edu/x/2021/labs/9/)
 ----------
-
+  * [Birthdays](/lab9)
+ 
 
 
 [Problem Set 1 : C](https://cs50.harvard.edu/x/2021/psets/1/)

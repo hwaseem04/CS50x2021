@@ -9,6 +9,8 @@ Feel free to browse the code in this repository after you do your best to solve 
 - Problem Sets
 <!-- - [Course Certificate](https://certificates.cs50.io/8577526b-3f98-4753-9922-1070974430bf.pdf?size=letter) -->
 
+## LAB ASSIGNMENT SOLUTIONS
+
 [Lab 1 : C](https://cs50.harvard.edu/x/2021/labs/1/)
 ----------
   * [Hello](/lab1/hello/hello.c)
@@ -46,7 +48,7 @@ Feel free to browse the code in this repository after you do your best to solve 
 ----------
   * [Birthdays](/lab9)
  
-
+## PROBLEM SET SOLUTIONS
 
 [Problem Set 1 : C](https://cs50.harvard.edu/x/2021/psets/1/)
 ----------

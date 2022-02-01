@@ -56,9 +56,10 @@ Link to `Lab 8`:
 
 Link to `Lab 9`:
 
-[Problem Set 1 : C](https://cs50.harvard.edu/x/2021/psets/1/) - <a href='https://cs50.harvard.edu/x/2021/psets/1/'>Question pset1</a>
+[Problem Set 1 : C](https://cs50.harvard.edu/x/2021/psets/1/)
 ----------
-  * [credit](/pset1)
+  * [credit](/pset1/credit/)
+  * [mario](/pset1/mario/)
 
 [Problem Set 2 : ]
 ----------

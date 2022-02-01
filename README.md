@@ -63,7 +63,7 @@ Link to `Lab 9`:
 
 [Problem Set 2 : Arrays](https://cs50.harvard.edu/x/2021/psets/2/)
 ----------
-*[]
+* []
 
 Link to `pset2`: 
 

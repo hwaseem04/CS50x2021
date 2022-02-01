@@ -80,27 +80,26 @@ Link to `Lab 9`:
 ----------
   * [Speller](/pset5/speller)
 
-[Problem Set 6 : Python](https://cs50.harvard.edu/x/2021/psets/5/)
+[Problem Set 6 : Python](https://cs50.harvard.edu/x/2021/psets/6/)
 ----------
   * [Cash](/pset6/cash)
   * [Dna](/pset6/dna)
   * [Mario (more comfortable)](/pset6/mario/more)
   * [readability](/pset6/readability)
 
-Problem Set 7
+[Problem Set 7 : SQL](https://cs50.harvard.edu/x/2021/psets/6/)
 ----------
-
-Link to `pset7`: 
+  * [Fiftyville](/pset7/fiftyville/answers.txt)
 
 Problem Set 8
 ----------
 
-Link to `pset8`:
+
 
 Problem Set 9
 ----------
 
-Link to `pset9`:
+
 
 Final Project
 ----------

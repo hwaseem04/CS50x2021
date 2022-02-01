@@ -55,26 +55,26 @@ Link to `Lab 8`:
 ## Lab 9
 
 Link to `Lab 9`:
-
+---
 [Problem Set 1 : C](https://cs50.harvard.edu/x/2021/psets/1/)
 ----------
-  * [Credit](/pset1/credit/)
-  * [Mario (more comfortable)](/pset1/mario/)
+  * [Credit](/pset1/credit/credit.c)
+  * [Mario (more comfortable)](/pset1/mario/mario.c)
 
 [Problem Set 2 : Arrays](https://cs50.harvard.edu/x/2021/psets/2/)
 ----------
-  * [Readability](/pset2/readability)
-  * [Substituition](/pset2/substituition)
+  * [Readability](/pset2/readability/readability.c)
+  * [Substituition](/pset2/substituition/substituition.c)
 
 [Problem Set 3 : Algorithms](https://cs50.harvard.edu/x/2021/psets/3/)
 ----------
-  * [Plurality](/pset3/plurality)
-  * [Tideman](/pset3/tideman)
+  * [Plurality](/pset3/plurality/plurality.c)
+  * [Tideman](/pset3/tideman/tideman.c)
 
 [Problem Set 4 : Memory](https://cs50.harvard.edu/x/2021/psets/4/)
 ----------
   * [Filter](/pset4/filter)
-  * [Recover](/pset4/recover)
+  * [Recover](/pset4/recover/recover.c)
 
 [Problem Set 5 : Data Structures](https://cs50.harvard.edu/x/2021/psets/5/)
 ----------
@@ -82,23 +82,22 @@ Link to `Lab 9`:
 
 [Problem Set 6 : Python](https://cs50.harvard.edu/x/2021/psets/6/)
 ----------
-  * [Cash](/pset6/cash)
+  * [Cash](/pset6/cash/cash.py)
   * [Dna](/pset6/dna)
-  * [Mario (more comfortable)](/pset6/mario/more)
-  * [readability](/pset6/readability)
+  * [Mario (more comfortable)](/pset6/mario/more/mario.py)
+  * [readability](/pset6/readability/readability.py)
 
-[Problem Set 7 : SQL](https://cs50.harvard.edu/x/2021/psets/6/)
+[Problem Set 7 : SQL](https://cs50.harvard.edu/x/2021/psets/7/)
 ----------
   * [Fiftyville](/pset7/fiftyville/answers.txt)
 
-Problem Set 8
+[Problem Set 8 : HTML, CSS, JavaScript](https://cs50.harvard.edu/x/2021/psets/8/)
 ----------
+  I have created a static page  using my details so I  am not Posting here :)
 
-
-
-Problem Set 9
+[Problem Set 9 : Flask](https://cs50.harvard.edu/x/2021/psets/9/)
 ----------
-
+  * [Finance](/pset9/finance/)
 
 
 Final Project

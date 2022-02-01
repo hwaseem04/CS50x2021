@@ -55,7 +55,7 @@ Link to `Lab 8`:
 ## Lab 9
 
 Link to `Lab 9`:
-###rrt
+### rrt
 [Problem Set 1 : C](https://cs50.harvard.edu/x/2021/psets/1/)
 ----------
   * [Credit](/pset1/credit/credit.c)

@@ -5,8 +5,8 @@
 Feel free to browse the code in this repository after you do your best to solve the assignments yourself.
 
 ## Contents
-- Solutions of problem sets
-- [Course Certificate](https://courses.edx.org/certificates/bc0e59ca7edd4ed08578d30f131db429)
+- 
+- [Course Certificate](https://certificates.cs50.io/8577526b-3f98-4753-9922-1070974430bf.pdf?size=letter)
 
 Lab 1
 ----------
@@ -56,12 +56,14 @@ Link to `Lab 8`:
 
 Link to `Lab 9`:
 
-Problem Set 1
+[Problem Set 1 : C](/pset1)
 ----------
+Link to `pset1`:
+
  [Problem Set 1: C](/pset1) - <a href='https://cs50.harvard.edu/x/2021/psets/1/'> Assignments 1</a>
   * [credit](/pset1)
 
-Problem Set 2
+[Problem Set 2 : ]
 ----------
 
 Link to `pset2`: 

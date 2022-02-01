@@ -55,7 +55,7 @@ Link to `Lab 8`:
 ## Lab 9
 
 Link to `Lab 9`:
----
+###
 [Problem Set 1 : C](https://cs50.harvard.edu/x/2021/psets/1/)
 ----------
   * [Credit](/pset1/credit/credit.c)
@@ -122,30 +122,6 @@ Notes
 References
 ----------
 [CS50 - Harvard University - edX](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
-
-<h2> Table Of Contents </h2>
-
-- [Problem Set 1: C](/pset1) - <a href='https://cs50.harvard.edu/x/2020/psets/1/'> Assignments 1</a>
-  * [credit](/pset1)
-- [Problem Set 2: Arrays](/pset2) - <a href='https://cs50.harvard.edu/x/2020/psets/2/'> Assignments 2</a> 
-  * [caesar](/pset2/caesar)
-  * [substitution](/pset2/substitution)
-  * [readability](/pset2/readability)
-- [Problem Set3: Algorithms](/pset3) - <a href='https://cs50.harvard.edu/x/2020/psets/3/'> Assignments 3</a> 
-  * [plurality](/pset3/plurality)
-  * [runoff](/pset3/runoff)
-- [Problem Set 4: Memory](/pset4) - <a href='https://cs50.harvard.edu/x/2020/psets/4/'> Assignments 4</a> 
-  * [filter](/pset4)
-- [Problem Set 5: Data Structures](/pset5) - <a href='https://cs50.harvard.edu/x/2020/psets/5/speller/'> Speller assignment</a>
-  * [speller](/pset5)
-- [Problem Set 6: Python](/pset6) - <a href='https://cs50.harvard.edu/x/2020/psets/6/'> Assignments 6</a>
-  * [cash](/pset6/cash)
-  * [dna](/pset6/dna)
-  * [mario](/pset6/mario)
-  * [mario_less](/pset6/mario_less)
-- [Problem Set 7: SQL](/pset7) - <a href='https://cs50.harvard.edu/x/2020/psets/6/'> Assignments 7</a>
-  * [movies](/pset7/movies)
-  * [houses](/pset7/houes)
 
 
 ##### Coping a code is absolutly pointless if you want to learn.

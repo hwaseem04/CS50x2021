@@ -4,6 +4,7 @@
 
 Feel free to browse the code in this repository after you do your best to solve the assignments yourself.
 
+##### Coping a code is absolutly pointless if you want to learn.
 ---
 
 ## Contents
@@ -122,5 +123,4 @@ References
 [CS50 - Harvard University - edX](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
 
 
-##### Coping a code is absolutly pointless if you want to learn.
 

@@ -58,11 +58,12 @@ Link to `Lab 9`:
 
 [Problem Set 1 : C](https://cs50.harvard.edu/x/2021/psets/1/)
 ----------
-  * [credit](/pset1/credit/)
-  * [mario](/pset1/mario/)
+  * [Credit](/pset1/credit/)
+  * [Mario](/pset1/mario/)
 
-[Problem Set 2 : ]
+[Problem Set 2 : Arrays](https://cs50.harvard.edu/x/2021/psets/2/)
 ----------
+*[]
 
 Link to `pset2`: 
 

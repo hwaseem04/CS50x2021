@@ -8,38 +8,38 @@ Feel free to browse the code in this repository after you do your best to solve 
 - 
 - [Course Certificate](https://certificates.cs50.io/8577526b-3f98-4753-9922-1070974430bf.pdf?size=letter)
 
-Lab 1
+[Lab 1 : C](https://cs50.harvard.edu/x/2021/labs/1/)
 ----------
 
-Lab 2
-----------
-
-
-Lab 3
+[Lab 2 : Arrays](https://cs50.harvard.edu/x/2021/labs/2/)
 ----------
 
 
-Lab 4
+[Lab 3 : Algorithms](https://cs50.harvard.edu/x/2021/labs/3/)
 ----------
 
 
-Lab 5
+[Lab 4 : Memory](https://cs50.harvard.edu/x/2021/labs/4/)
 ----------
 
 
-Lab 6
+[Lab 5 : Data Structures](https://cs50.harvard.edu/x/2021/labs/5/)
 ----------
 
 
-Lab 7
+[Lab 6 : Python](https://cs50.harvard.edu/x/2021/labs/6/)
 ----------
 
 
-Lab 8
+[Lab 7 : SQL](https://cs50.harvard.edu/x/2021/labs/7/)
 ----------
 
 
-Lab 9
+[Lab 8 : HTML, CSS, JavaScript](https://cs50.harvard.edu/x/2021/labs/8/)
+----------
+
+
+[Lab 9 : Flask](https://cs50.harvard.edu/x/2021/labs/9/)
 ----------
 
 

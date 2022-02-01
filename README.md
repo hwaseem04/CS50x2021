@@ -59,19 +59,17 @@ Link to `Lab 9`:
 [Problem Set 1 : C](https://cs50.harvard.edu/x/2021/psets/1/)
 ----------
   * [Credit](/pset1/credit/)
-  * [Mario](/pset1/mario/)
+  * [Mario (more comfortable)](/pset1/mario/)
 
 [Problem Set 2 : Arrays](https://cs50.harvard.edu/x/2021/psets/2/)
 ----------
-* []
+  * [Readability](/pset2/readability)
+  * [Substituition](/pset2/substituition)
 
-Link to `pset2`: 
-
-Problem Set 3
+[Problem Set 3 : Algorithms](https://cs50.harvard.edu/x/2021/psets/3/)
 ----------
-
-Link to `pset3`: 
-
+  * [Plurality](/pset3/plurality)
+  * [Tideman](/pset3/tideman)
 
 Problem Set 4
 ----------

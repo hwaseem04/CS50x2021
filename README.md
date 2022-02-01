@@ -4,6 +4,8 @@
 
 Feel free to browse the code in this repository after you do your best to solve the assignments yourself.
 
+---
+
 ## Contents
 - Lab Assignments
 - Problem Sets

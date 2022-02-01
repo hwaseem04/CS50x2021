@@ -7,7 +7,7 @@ Feel free to browse the code in this repository after you do your best to solve 
 ## Contents
 - Lab Assignments
 - Problem Sets
-- [Course Certificate](https://certificates.cs50.io/8577526b-3f98-4753-9922-1070974430bf.pdf?size=letter)
+<!-- - [Course Certificate](https://certificates.cs50.io/8577526b-3f98-4753-9922-1070974430bf.pdf?size=letter) -->
 
 [Lab 1 : C](https://cs50.harvard.edu/x/2021/labs/1/)
 ----------
@@ -88,7 +88,7 @@ Feel free to browse the code in this repository after you do your best to solve 
 ----------
   * [Finance](/pset9/finance/)
 
-
+<!--
 Final Project
 ----------
 
@@ -99,7 +99,7 @@ Link to final project site:
 Link to final project code: 
 
 Link to final project video: 
-
+-->
 
 Notes
 ----------

@@ -71,23 +71,21 @@ Link to `Lab 9`:
   * [Plurality](/pset3/plurality)
   * [Tideman](/pset3/tideman)
 
-Problem Set 4
+[Problem Set 4 : Memory](https://cs50.harvard.edu/x/2021/psets/4/)
 ----------
+  * [Filter](/pset4/filter)
+  * [Recover](/pset4/recover)
 
-Link to `pset4`: 
-
-
-Problem Set 5
+[Problem Set 5 : Data Structures](https://cs50.harvard.edu/x/2021/psets/5/)
 ----------
+  * [Speller](/pset5/speller)
 
-Link to `pset5`: 
-
-
-Problem Set 6
+[Problem Set 6 : Python](https://cs50.harvard.edu/x/2021/psets/5/)
 ----------
-
-Link to `pset6`: 
-
+  * [Cash](/pset6/cash)
+  * [Dna](/pset6/dna)
+  * [Mario (more comfortable)](/pset6/mario/more)
+  * [readability](/pset6/readability)
 
 Problem Set 7
 ----------
